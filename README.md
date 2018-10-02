@@ -39,8 +39,8 @@ Nevertheless, it shows how computerized drivers could improve traffic efficiency
 
 ## Useful Links
 
-http://senseable.mit.edu/light-traffic/
-http://www.cs.utexas.edu/~aim/
-http://www.cs.utexas.edu/~aim/papers/partC17-Sharon.pdf
+http://senseable.mit.edu/light-traffic/ </br>
+http://www.cs.utexas.edu/~aim/ </br>
+http://www.cs.utexas.edu/~aim/papers/partC17-Sharon.pdf </br>
 
 https://www.engadget.com/2018/09/17/audi-autonomous-cars-25th-hour-traffic-jams/?guccounter=1

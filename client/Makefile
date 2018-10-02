@@ -18,7 +18,6 @@ SRCS = 	srcs/CommunicationSocket.cpp \
 		srcs/Graph.class.cpp				\
 		srcs/Ai.class.cpp		\
 		srcs/Car.cpp			\
-		srcs/get_next_line.cpp	\
 		srcs/AStar.cpp \
 		main.cpp
 
